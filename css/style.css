@@ -25452,6 +25452,7 @@ html:not(.lt-ie10) .not-animated {
   height: 48px;
   font-size: 22px;
   line-height: 48px;
+  font-variant: small-caps;
 }
 
 .rd-navbar-fixed .rd-navbar-brand .brand-name > span {
